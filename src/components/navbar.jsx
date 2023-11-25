@@ -14,7 +14,7 @@ const Navbar = () => {
             <a className="nav-link" href="index.html">Home <span className="sr-only">(current)</span></a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">Cart</a>
+            <a className="nav-link" href="index.html">Cart</a>
           </li>
         </ul>
       </div>
